@@ -6,7 +6,7 @@ const log = require('../lib/logger/fileLog').log;
 const responseTypes = require('../lib/responseTypes');
 
 /**
- * Get records (/records/get)
+ * Get records ("/records/get")
  * @param {Object} req
  * @param {Object} res
  */
